@@ -9,7 +9,7 @@
     "restart": "pm2 restart Didula-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:VajiraOfficial/vajira-baileys",
+    "@whiskeysockets/baileys": "github:AxellNetwork/Baileys",
     "@adiwajshing/keyed-db": "latest",
     "@blackamda/telegram-image-url":"^1.0.0",
     "pino": "latest",
