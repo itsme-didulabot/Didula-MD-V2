@@ -27,7 +27,7 @@
 ## I will fix movie plugin and setting plugin
 ## Bug Plugin Coming Soon
 
-# Bot Update Automatically ✅
+# `Bot Update Automatically ✅`
 
 
 # 01  Delete Unnecessary Chat
