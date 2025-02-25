@@ -27,15 +27,16 @@
 ## I will fix movie plugin and setting plugin
 ## Bug Plugin Coming Soon
 
-# Bot Update Automatically 
+# Bot Update Automatically ✅
 
 
-# Pair and Connect Your WhatsApp
+# 01  Delete Unnecessary Chat
 
-## Delete unnecessary chats
-## if not connect re pair your WhatsApp 
+# 02 Next Login Your WhatsApp Using  Below Button 
 
 <a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-blue?style=for-the-badge&logo=render"></a>
+
+## ⚠️ If your bot disconnected repair again 👀
 
 
 # Deploy On Heroku 
